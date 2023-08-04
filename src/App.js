@@ -1,11 +1,11 @@
 import React from 'react';
-import FinalAccordian from './Accordian/FinalAccordian';
+import FinalMenu from './ResturantMenu/FinalMenu';
 // import './App.css';
 
 function App() {
 return (
 <>
-<FinalAccordian/>
+<FinalMenu/>
 </>
 )}
 

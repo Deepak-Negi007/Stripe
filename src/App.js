@@ -1,12 +1,9 @@
 import React from 'react';
-import FinalMenu from './ResturantMenu/FinalMenu';
-// import './App.css';
+import FinalStripe from './Stripe/FinalStripe';
 
 function App() {
 return (
-<>
-<FinalMenu/>
-</>
+<FinalStripe/>
 )}
 
 export default App;
